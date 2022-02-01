@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @henriquecbz
 - 👀 I’m interested in becoming a Data Cientist
 - 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on finance business rules
+- 💞️ I’m looking to collaborate on quantitative finance
 - 📫 How to reach me: henriquecbezerra@gmail.com
 
 <!---
